@@ -1,0 +1,7 @@
+
+whitelist:
+  - .*\.wanted\.metric\.99Percentile$
+
+blacklist:
+  - .*1MinuteRate$
+  - .*\.metric\.99Percentile$

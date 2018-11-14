@@ -37,7 +37,7 @@ Collect Cassandra metrics and write to netcat:
           7199 \
           localhost \
           2003 \
-          myhost_tokbox_com
+          myhost_domain_com
 
 
 Note: This project was originally forked from https://github.com/wikimedia/cassandra-metrics-collector, but that project collected too much data, so this was created to be more selective in the data collection.

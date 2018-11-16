@@ -73,7 +73,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.tokbox.cassandra.metrics.Command</mainClass>
+              <mainClass>com.freitas.cassandra.metrics.Command</mainClass>
             </manifest>
           </archive>
         </configuration>
